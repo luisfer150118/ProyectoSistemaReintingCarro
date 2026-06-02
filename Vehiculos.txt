@@ -1,0 +1,19 @@
+------------------------------------------------------
+Tipo: Sedan
+Placa: 123re
+Marca: toyota
+Modelo: 2024
+Precio Diario: 16000.0
+Estado: Disponible
+Combustible: Gasolina
+Transmision: Automatica
+------------------------------------------------------
+Tipo: SUV
+Placa: 963re
+Marca: nuevo bmw
+Modelo: 2026
+Precio Diario: 50000.0
+Estado: Alquilado
+Traccion: 4x2
+Capacidad Maletero: 50.0
+------------------------------------------------------
