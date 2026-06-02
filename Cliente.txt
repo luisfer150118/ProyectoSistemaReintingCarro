@@ -1,0 +1,14 @@
+Cedula: 1234567
+Nombre: edinson alejandro
+Apellido: gutierrez vera
+Telefono: 3192988956
+Direccion: la aurora
+Licencia: 654lio
+------------------------------------------------------ 
+Cedula: 1067887957
+Nombre: luis fernando
+Apellido: silva perez
+Telefono: 3116945474
+Direccion: calle la esquina
+Licencia: 123pio
+------------------------------------------------------ 
